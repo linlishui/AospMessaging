@@ -1,0 +1,9 @@
+rootProject.name = "Messaging"
+include ':app'
+
+include ':chips'
+include ':photoviewer'
+include ':colorpicker'
+include ':framesequence'
+
+//include ':giflib'
